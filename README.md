@@ -28,7 +28,8 @@ Các bạn dowload file về và giải nén
 Để có thể khởi động được xe , bạn cần cài đặt phần mềm [Miniconda 3. ](https://docs.conda.io/en/latest/miniconda.html)
 Có các lựa chọn khác nhau , bạn dowload theo hệ điều hành mình sử dụng , như mình sẽ chọn **Windows Installers -> Python 3.8 -> Miniconda 3 Windows 64-bit**.
 
-Trong lúc cài đặt các bạn nhớ 1 số lưu ý sau : 
+Trong lúc cài đặt các bạn nhớ 1 số lưu ý sau :
+
 ![](https://i.imgur.com/aSkRwc7.png)
 ![](https://i.imgur.com/VpDTeSq.png)
 
