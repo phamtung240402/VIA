@@ -18,7 +18,7 @@ Các bạn dowload các file zip về và giải nén file .
 ### ->Select **Code** 
 ![](https://i.imgur.com/TUG9FiX.png)
 ### -> **Dowload ZIP**
-![](blob:https://imgur.com/ecc156f9-d87c-46c7-bde1-ab7844a46306)
+![](blob:https://imgur.com/69c55389-6694-4cff-a48f-084c1b7f20ab)
 Các bạn dowload file về và giải nén 
 
 ## Cài đặt miniconda 3
