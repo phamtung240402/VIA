@@ -14,11 +14,11 @@ Các bạn dowload các file zip về và giải nén file .
 
 ## Cài đặt source code
  Đầu tiên , các bạn [vào link này](https://github.com/makerhanoi/hello-via)
-![](https://i.imgur.com/Usr2cTl.png)
- ->Select **Code** 
 ![](https://i.imgur.com/TUG9FiX.png)
- -> **Dowload ZIP**
+ ->Select **Code** 
 ![](https://i.imgur.com/DF7WLXg.png)
+ -> **Dowload ZIP**
+
 Các bạn dowload file về và giải nén 
 
 ## Cài đặt miniconda 3
