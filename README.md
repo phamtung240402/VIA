@@ -2,14 +2,17 @@
 ## Các bước Setup
 Hiện nay , Maker Hà Nội đã tạo ra được chương trình giả lập xe  trên 3 hệ điều hành khác nhau : Linux,Windows,Macos.
 Tùy theo từng hệ điều hành các bạn sử dụng , các bạn có thể dowload theo link dưới đây : [Dowload here](https://github.com/makerhanoi/via-simulation-jeep/releases/tag/v0.1-alpha "Github Maker Hanoi")
-![](https://i.imgur.com/Usr2cTl.png)
+![](https://i.imgur.com/Usr2cTl.png).
+
 Nếu bạn sử dụng hệ điều hành : 
 * Windows -> Select : via-simulation-windows-x86_64-20210314.zip
 * Linux -> Select : via-simulation-linux-x86_64-20210314.zip
-* MacOS -> Select : via-simulation-macos-x86_64-20210314.zip
+* MacOS -> Select : via-simulation-macos-x86_64-20210314.zip. 
+
+
 Các bạn dowload các file zip về và giải nén file . 
 
-## Cài đặt source code 
+## *Cài đặt source code* 
 ### Đầu tiên , các bạn [vào link này](https://github.com/makerhanoi/hello-via)
 ![](https://i.imgur.com/Usr2cTl.png)
 ### ->Select **Code** 
