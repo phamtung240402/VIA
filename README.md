@@ -2,7 +2,7 @@
 ## Cài đặt những  
 Hiện nay , Maker Hà Nội đã tạo ra được chương trình giả lập xe  trên 3 hệ điều hành khác nhau : Linux,Windows,Macos.
 Tùy theo từng hệ điều hành các bạn sử dụng , các bạn có thể dowload theo link dưới đây : [Dowload here](https://github.com/makerhanoi/via-simulation-jeep/releases/tag/v0.1-alpha"Github Maker Hanoi")
-![](https://imgur.com/Gvwa2pI)
+![]()
 Nếu bạn sử dụng hệ điều hành : 
 * Windows -> Select : via-simulation-windows-x86_64-20210314.zip
 * Linux -> Select : via-simulation-linux-x86_64-20210314.zip
@@ -11,10 +11,11 @@ Các bạn dowload các file zip về và giải nén file .
 
 ## Cài đặt source code 
 ### Đầu tiên , các bạn [vào link này](https://github.com/makerhanoi/hello-via)
-![](https://imgur.com/NUXeHcZ)
+![](https://i.imgur.com/Usr2cTl.png)
 ### ->Select **Code** 
-![](https://imgur.com/a/iYM8NVS)
+![](https://i.imgur.com/TUG9FiX.png)
 ### -> **Dowload ZIP**
+![](blob:https://imgur.com/ecc156f9-d87c-46c7-bde1-ab7844a46306)
 Các bạn dowload file về và giải nén 
 
 ## Cài đặt miniconda 3
