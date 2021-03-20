@@ -12,6 +12,7 @@ Nếu bạn sử dụng hệ điều hành :
 
 Các bạn dowload các file zip về và giải nén file .
 
+*Hôm nay mình sẽ sử dụng hệ điều hành Windows, các hệ điều hành còn lại hoàn toàn tương tự .*
 ## Cài đặt source code
  Đầu tiên , các bạn [vào link này](https://github.com/makerhanoi/hello-via)
 ![](https://i.imgur.com/TUG9FiX.png)
