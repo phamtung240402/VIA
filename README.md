@@ -18,7 +18,7 @@ Các bạn dowload các file zip về và giải nén file .
  ->Select **Code** 
 ![](https://i.imgur.com/TUG9FiX.png)
  -> **Dowload ZIP**
-![](blob:https://imgur.com/69c55389-6694-4cff-a48f-084c1b7f20ab)
+![](https://i.imgur.com/DF7WLXg.png)
 Các bạn dowload file về và giải nén 
 
 ## Cài đặt miniconda 3
@@ -31,7 +31,7 @@ Trong lúc cài đặt các bạn nhớ 1 số lưu ý sau :
 ## Cài đặt môi trường 
 
 
-1. Chúng mình sẽ sử dụng **Visual Studio Code** nên các bạn nhớ dowload trước về nhé .
+1. Chúng mình sẽ sử dụng **Visual Studio Code** nên các bạn có thể dowload [ở đây](https://code.visualstudio.com/download "Visual Studio Code ")
 2. Open **File -> Open File -> hello-via-master**
 3. Cài đặt môi trường giả lập miniconda : **conda create -n <Tên môi trường> python=3.7** -> y -> Enter
 4. Nhập lệnh **conda activate <Tên môi trường>** để khởi động môi trường
