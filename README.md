@@ -34,9 +34,12 @@ Trong lúc cài đặt các bạn nhớ 1 số lưu ý sau :
 ## IV. Thiết lập môi trường 
 
 
-1. Chúng mình sẽ sử dụng **Visual Studio Code** nên các bạn có thể dowload [ở đây](https://code.visualstudio.com/download "Visual Studio Code ")
+1. Chúng mình sẽ sử dụng **Visual Studio Code** nên các bạn có thể dowload [ở đây.](https://code.visualstudio.com/download "Visual Studio Code ")
+
 2. Open **File -> Open File -> hello-via-master** , các bạn sẽ thấy : 
 ![](https://i.imgur.com/OMZBOYn.png)
+
+
 3. Cài đặt môi trường giả lập miniconda : **conda create -n <Tên môi trường> python=3.7**
  ![](https://i.imgur.com/Hf5KEZk.png)
  ![](https://i.imgur.com/9rE8HvV.png) 
