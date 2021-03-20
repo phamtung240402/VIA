@@ -58,3 +58,6 @@ Cuối cùng **Finish** để hoàn tất .
 
 5. Cài những gói cần thiết : **pip install -r requirements.txt**
 ![](https://i.imgur.com/Q8IbsCu.png)
+
+
+**DONEEEEEEEEEEEEEEEEEEEEEEEEEEEEE !**
