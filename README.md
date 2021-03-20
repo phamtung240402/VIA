@@ -13,16 +13,16 @@ Nếu bạn sử dụng hệ điều hành :
 Các bạn dowload các file zip về và giải nén file . 
 
 ## Cài đặt source code
-### Đầu tiên , các bạn [vào link này](https://github.com/makerhanoi/hello-via)
+ Đầu tiên , các bạn [vào link này](https://github.com/makerhanoi/hello-via)
 ![](https://i.imgur.com/Usr2cTl.png)
-### ->Select **Code** 
+ ->Select **Code** 
 ![](https://i.imgur.com/TUG9FiX.png)
-### -> **Dowload ZIP**
+ -> **Dowload ZIP**
 ![](blob:https://imgur.com/69c55389-6694-4cff-a48f-084c1b7f20ab)
 Các bạn dowload file về và giải nén 
 
 ## Cài đặt miniconda 3
-###Để có thể khởi động được xe , bạn cần cài đặt phần mềm [Miniconda 3](https://docs.conda.io/en/latest/miniconda.html)
+Để có thể khởi động được xe , bạn cần cài đặt phần mềm [Miniconda 3](https://docs.conda.io/en/latest/miniconda.html)
 Có các lựa chọn khác nhau , bạn dowload theo hệ điều hành mình sử dụng , như mình sẽ chọn **Windows Installers -> Python 3.8 -> Miniconda 3 Windows 64-bit**
 Trong lúc cài đặt các bạn nhớ 1 số lưu ý sau : 
 ![](https://i.imgur.com/aSkRwc7.png)
