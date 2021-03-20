@@ -1,5 +1,5 @@
 # Cài đặt môi trường giả lập . 
-## Dowload các file cần thiết .
+## Dowload môi trường giả lập .
 Hiện nay , Maker Hà Nội đã tạo ra được chương trình giả lập xe  trên 3 hệ điều hành khác nhau : Linux , Windows , MacOS.
 Tùy theo từng hệ điều hành các bạn sử dụng , các bạn có thể dowload theo [link này .](https://github.com/makerhanoi/via-simulation-jeep/releases/tag/v0.1-alpha "Github Maker Hanoi")
 ![](https://i.imgur.com/Usr2cTl.png).
@@ -10,7 +10,7 @@ Nếu bạn sử dụng hệ điều hành :
 * MacOS -> Select : via-simulation-macos-x86_64-20210314.zip. 
 
 
-Các bạn dowload các file zip về và giải nén file . 
+Các bạn dowload các file zip về và giải nén file .
 
 ## Cài đặt source code
  Đầu tiên , các bạn [vào link này](https://github.com/makerhanoi/hello-via)
@@ -37,6 +37,8 @@ Trong lúc cài đặt các bạn nhớ 1 số lưu ý sau :
 3. Cài đặt môi trường giả lập miniconda : **conda create -n <Tên môi trường> python=3.7**
  ![](https://i.imgur.com/Hf5KEZk.png)
  ![](https://i.imgur.com/9rE8HvV.png) 
- -> y -> Enter
+ **-> y -> Enter**
 4. Nhập lệnh **conda activate <Tên môi trường>** để khởi động môi trường
-8. Cài những gói cần thiết : **pip install -r requirements.txt**
+![](https://i.imgur.com/f4HfrqR.png)
+5. Cài những gói cần thiết : **pip install -r requirements.txt**
+![](https://i.imgur.com/Q8IbsCu.png)
