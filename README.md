@@ -1,5 +1,5 @@
 # Phần I : Cài đặt môi trường giả lập . 
-## 1.Dowload môi trường giả lập .
+## I. Dowload môi trường giả lập .
 Hiện nay , Maker Hà Nội đã tạo ra được chương trình giả lập xe  trên 3 hệ điều hành khác nhau : Linux , Windows , MacOS.
 Tùy theo từng hệ điều hành các bạn sử dụng , các bạn có thể dowload theo [link này .](https://github.com/makerhanoi/via-simulation-jeep/releases/tag/v0.1-alpha "Github Maker Hanoi")
 ![](https://i.imgur.com/Usr2cTl.png).
@@ -13,7 +13,7 @@ Nếu bạn sử dụng hệ điều hành :
 Các bạn dowload các file zip về và giải nén file .
 
 *Hôm nay mình sẽ sử dụng hệ điều hành Windows, các hệ điều hành còn lại hoàn toàn tương tự .*
-## 2.Cài đặt source code
+## II. Cài đặt source code
  Đầu tiên , các bạn [vào link này](https://github.com/makerhanoi/hello-via)
 ![](https://i.imgur.com/TUG9FiX.png)
  ->Select **Code** 
@@ -22,14 +22,14 @@ Các bạn dowload các file zip về và giải nén file .
 
 Các bạn dowload file về và giải nén 
 
-## 3.Cài đặt miniconda 3
+## III. Cài đặt miniconda 3
 Để có thể khởi động được xe , bạn cần cài đặt phần mềm [Miniconda 3](https://docs.conda.io/en/latest/miniconda.html)
 Có các lựa chọn khác nhau , bạn dowload theo hệ điều hành mình sử dụng , như mình sẽ chọn **Windows Installers -> Python 3.8 -> Miniconda 3 Windows 64-bit**
 Trong lúc cài đặt các bạn nhớ 1 số lưu ý sau : 
 ![](https://i.imgur.com/aSkRwc7.png)
 ![](https://i.imgur.com/VpDTeSq.png)
 
-## 4. Cài đặt môi trường 
+## IV. Cài đặt môi trường 
 
 
 1. Chúng mình sẽ sử dụng **Visual Studio Code** nên các bạn có thể dowload [ở đây](https://code.visualstudio.com/download "Visual Studio Code ")
