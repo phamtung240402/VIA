@@ -1,7 +1,7 @@
-# __ Cài đặt giả lập __
-## Các bước Setup
-Hiện nay , Maker Hà Nội đã tạo ra được chương trình giả lập xe  trên 3 hệ điều hành khác nhau : Linux,Windows,Macos.
-Tùy theo từng hệ điều hành các bạn sử dụng , các bạn có thể dowload theo link dưới đây : [Dowload here](https://github.com/makerhanoi/via-simulation-jeep/releases/tag/v0.1-alpha "Github Maker Hanoi")
+# Cài đặt môi trường giả lập . 
+## Dowload các file cần thiết .
+Hiện nay , Maker Hà Nội đã tạo ra được chương trình giả lập xe  trên 3 hệ điều hành khác nhau : Linux , Windows , MacOS.
+Tùy theo từng hệ điều hành các bạn sử dụng , các bạn có thể dowload theo [link này .](https://github.com/makerhanoi/via-simulation-jeep/releases/tag/v0.1-alpha "Github Maker Hanoi")
 ![](https://i.imgur.com/Usr2cTl.png).
 
 Nếu bạn sử dụng hệ điều hành : 
@@ -12,7 +12,7 @@ Nếu bạn sử dụng hệ điều hành :
 
 Các bạn dowload các file zip về và giải nén file . 
 
-## *Cài đặt source code* 
+## Cài đặt source code
 ### Đầu tiên , các bạn [vào link này](https://github.com/makerhanoi/hello-via)
 ![](https://i.imgur.com/Usr2cTl.png)
 ### ->Select **Code** 
@@ -25,8 +25,8 @@ Các bạn dowload file về và giải nén
 ###Để có thể khởi động được xe , bạn cần cài đặt phần mềm [Miniconda 3](https://docs.conda.io/en/latest/miniconda.html)
 Có các lựa chọn khác nhau , bạn dowload theo hệ điều hành mình sử dụng , như mình sẽ chọn **Windows Installers -> Python 3.8 -> Miniconda 3 Windows 64-bit**
 Trong lúc cài đặt các bạn nhớ 1 số lưu ý sau : 
-![](https://imgur.com/aSkRwc7)
-![](https://imgur.com/VpDTeSq)
+![](https://i.imgur.com/aSkRwc7.png)
+![](https://i.imgur.com/VpDTeSq.png)
 
 ## Cài đặt môi trường 
 
